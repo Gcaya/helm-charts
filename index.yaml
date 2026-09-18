@@ -3,6 +3,16 @@ entries:
   dotnet:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2026-09-18T20:35:28.406556349Z"
+    description: A Helm chart for Kubernetes
+    digest: dbfad709d02a1e4cfe982cef8e1c4359c31fd1b66d60794045efc46ab6a56c9f
+    name: dotnet
+    type: application
+    urls:
+    - https://github.com/Gcaya/helm-charts/releases/download/dotnet-0.1.1/dotnet-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2026-09-18T20:31:53.961102362Z"
     description: A Helm chart for Kubernetes
     digest: 65bd3f95edafd3e318968a68e6e134e0e0c8b49e3dbc69efadf855cd3d9bd912
@@ -22,4 +32,4 @@ entries:
     urls:
     - https://github.com/Gcaya/helm-charts/releases/download/node-api-0.1.0/node-api-0.1.0.tgz
     version: 0.1.0
-generated: "2026-09-18T20:31:54.228359064Z"
+generated: "2026-09-18T20:35:28.406587116Z"
