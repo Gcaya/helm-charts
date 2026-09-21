@@ -24,6 +24,16 @@ entries:
   node-api:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2026-09-21T13:24:15.394290536Z"
+    description: A Helm chart for Kubernetes
+    digest: 7df4b98aec42b2f9424e72c86ee0174620fbc3ffdeb0443316550906bdd23ae7
+    name: node-api
+    type: application
+    urls:
+    - https://github.com/Gcaya/helm-charts/releases/download/node-api-1.0.0/node-api-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2026-09-18T20:31:54.228352561Z"
     description: A Helm chart for Kubernetes
     digest: 062d3e06155a69bcd0a74f09eb059196ac19b1840ffddbebce085bf0c528bd94
@@ -32,4 +42,4 @@ entries:
     urls:
     - https://github.com/Gcaya/helm-charts/releases/download/node-api-0.1.0/node-api-0.1.0.tgz
     version: 0.1.0
-generated: "2026-09-18T20:35:28.406587116Z"
+generated: "2026-09-21T13:24:15.394311365Z"
